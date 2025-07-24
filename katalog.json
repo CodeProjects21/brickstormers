@@ -1,19 +1,17 @@
 {
   "programme": [
     {
-      "name": "Rechner",
-      "beschreibung": "Ein einfacher Python-Rechner.",
+      "name": "Snake",
+      "beschreibung": "Ein Snake Game.",
       "versionen": {
-        "1.0": "programme/rechner/1.0/rechner.py",
-        "1.1": "programme/rechner/1.1/rechner.py"
+        "0.1": "programme/snake/0.1/snake.py"
       }
     },
     {
-      "name": "Notizen",
-      "beschreibung": "Ein Konsolen-Notiztool.",
+      "name": "Test",
+      "beschreibung": "Ein Test Tool.",
       "versionen": {
-        "0.9": "programme/notizen/0.9/notizen.py",
-        "1.0": "programme/notizen/1.0/notizen.py"
+        "0.1": "programme/notizen/0.9/test.py"
       }
     }
   ]

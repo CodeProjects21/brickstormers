@@ -1,18 +1,22 @@
 {
-  "programme": [
-    {
-      "name": "Snake",
-      "beschreibung": "A simple Snake Game",
-      "dateipfad": "programme/snake",
-      "versionen": ["0.1"],
-      "auth_required": true
-    },
-    {
-      "name": "Test",
-      "beschreibung": "Test",
-      "dateipfad": "programme/test",
-      "versionen": ["0.1"],
-      "auth_required": true
+  "cooles_tool": {
+    "auth_required": false,
+    "versions": {
+      "1.0": "programme/cooles_tool/1.0/main.py",
+      "1.1": "programme/cooles_tool/1.1/main.py"
     }
-  ]
+  },
+  "geheimes_tool": {
+    "auth_required": true,
+    "versions": {
+      "1.0": "programme/geheimes_tool/1.0/main.py",
+      "2.0": "programme/geheimes_tool/2.0/main.py"
+    }
+  },
+  "offenes_tool": {
+    "auth_required": false,
+    "versions": {
+      "0.1": "programme/offenes_tool/0.1/main.py"
+    }
+  }
 }

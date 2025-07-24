@@ -3,12 +3,19 @@
     {
       "name": "Rechner",
       "beschreibung": "Ein einfacher Python-Rechner.",
-      "dateipfad": "programme/rechner.py"
+      "versionen": {
+        "1.0": "programme/rechner/1.0/rechner.py",
+        "1.1": "programme/rechner/1.1/rechner.py"
+      }
     },
     {
       "name": "Notizen",
-      "beschreibung": "Ein Mini-Notizblock in der Konsole.",
-      "dateipfad": "programme/notizen.py"
+      "beschreibung": "Ein Konsolen-Notiztool.",
+      "versionen": {
+        "0.9": "programme/notizen/0.9/notizen.py",
+        "1.0": "programme/notizen/1.0/notizen.py"
+      }
     }
   ]
 }
+

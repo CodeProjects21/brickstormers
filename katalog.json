@@ -2,17 +2,17 @@
   "programme": [
     {
       "name": "Snake",
-      "beschreibung": "Ein Snake Game.",
-      "versionen": {
-        "0.1": "programme/snake/0.1/snake.py"
-      }
+      "beschreibung": "A simple Snake Game",
+      "dateipfad": "programme/snake",
+      "versionen": ["0.1"],
+      "auth_required": true
     },
     {
       "name": "Test",
-      "beschreibung": "Ein Test Tool.",
-      "versionen": {
-        "0.1": "programme/notizen/0.9/test.py"
-      }
+      "beschreibung": "Test",
+      "dateipfad": "programme/test",
+      "versionen": ["0.1"],
+      "auth_required": true
     }
   ]
 }

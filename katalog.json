@@ -1,0 +1,14 @@
+{
+  "programme": [
+    {
+      "name": "Rechner",
+      "beschreibung": "Ein einfacher Python-Rechner.",
+      "dateipfad": "programme/rechner.py"
+    },
+    {
+      "name": "Notizen",
+      "beschreibung": "Ein Mini-Notizblock in der Konsole.",
+      "dateipfad": "programme/notizen.py"
+    }
+  ]
+}

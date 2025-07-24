@@ -1,6 +1,6 @@
 {
   "cooles_tool": {
-    "auth_required": false,
+    "auth_required": true,
     "versions": {
       "1.0": "programme/cooles_tool/1.0/main.py"
     }
